@@ -2,3 +2,21 @@ p {
     background-color: #ffa7a7;
     font-family: "Verdana", "DejaVu Sans", "sans-serif";
 }
+
+div {
+    font-weight: 700;
+}
+
+.bigText {
+    font-size: larger;
+}
+
+#bigBlueFont {
+    font-size: xx-large;
+    color: #00f
+}
+
+#bigGreenBg {
+    font-size: x-large;
+    background-color: #80ff80;
+}
