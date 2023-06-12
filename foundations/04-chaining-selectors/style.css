@@ -1,0 +1,10 @@
+.avatar.proportioned {
+  width: 300px;
+  height: auto;
+}
+
+/* works regardless of order! */
+.distorted.avatar {
+  width: 200px;
+  height: 400px;
+}
