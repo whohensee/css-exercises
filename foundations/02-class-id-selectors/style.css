@@ -8,15 +8,14 @@ div {
 }
 
 .bigText {
-    font-size: larger;
+    font-size: 24px;
 }
 
-#bigBlueFont {
-    font-size: xx-large;
+#line2 {
+    font-size: 36px;
     color: #00f
 }
 
-#bigGreenBg {
-    font-size: x-large;
+#line4 {
     background-color: #80ff80;
 }
