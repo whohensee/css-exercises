@@ -1,0 +1,14 @@
+.type1,
+.type2 {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
+}
+
+.type1 {
+  background-color: black;
+  color: white
+}
+
+.type2 {
+  background-color: yellow;
+}
